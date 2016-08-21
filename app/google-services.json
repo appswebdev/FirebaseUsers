@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "923607191862",
+    "firebase_url": "https://tomerdemo-92637.firebaseio.com",
+    "project_id": "tomerdemo-92637",
+    "storage_bucket": "tomerdemo-92637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923607191862:android:b60acdd3c6f67bb7",
+        "android_client_info": {
+          "package_name": "college.edu.tomer.firebaseusers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923607191862-gqtg7p9ck35tk5b161kc820qopitpemb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "college.edu.tomer.firebaseusers",
+            "certificate_hash": "6E7EDF87F3D8AEA388F87BCE41F27F7D2F1123EF"
+          }
+        },
+        {
+          "client_id": "923607191862-fcbap6i7cb0jol36ulq1m7i085duc4m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA08hpjkvwEpQ27HzPImEoNRSAEl9kf0lY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923607191862-fcbap6i7cb0jol36ulq1m7i085duc4m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
